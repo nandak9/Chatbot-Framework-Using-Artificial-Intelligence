@@ -83,15 +83,7 @@ You can import some default intents using follwing steps
 - choose 'examples/default_intents.json file'
 - click import
 
-### Screenshots
 
-![](https://image.ibb.co/i9ReWx/Screen_Shot_2018_04_28_at_1_38_15_PM.png)
----
-![](https://image.ibb.co/ivXKWx/Screen_Shot_2018_04_28_at_1_38_36_PM.png)
----
-![](https://image.ibb.co/nf9Bdc/Screen_Shot_2018_04_28_at_1_38_57_PM.png)
----
-![](https://image.ibb.co/b4q1dc/Screen_Shot_2018_04_28_at_1_43_06_PM.png)
 ### Tutorial
 
 Checkout this basic tutorial on youtube,
