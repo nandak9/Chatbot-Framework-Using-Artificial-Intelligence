@@ -32,7 +32,7 @@ docker run --name=iky_backend --link mongodb:mongodb -e="APPLICATION_ENV=Product
 # setup default intents
 docker exec -it iky_backend python manage.py init
 
-# start iky gateway with frontend
+# start iky gateway with frontend 
 docker run --name=iky_gateway --link iky_backend:iky_backend -p 8080:80 iky_gateway:2.0.0
 
 ```
