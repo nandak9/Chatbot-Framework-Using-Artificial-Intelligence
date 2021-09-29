@@ -11,7 +11,7 @@ simplejson==3.13.2
 pytest==3.4.2
 
 spacy==2.0.18
-nltk==3.2.5
+nltk==3.6.3
 scipy==0.19.1
 numpy==1.13.3
 pandas==0.21.1
